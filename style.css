@@ -19,6 +19,11 @@ h1 {
     text-align: center;
 }
 
+p {
+    margin-inline: auto;
+    width: 600px;
+}
+
 canvas {
     display: block;
     margin-inline: auto;
