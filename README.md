@@ -1,5 +1,7 @@
 # Falling Sand
 
+<img width="650" alt="Screenshot 2024-02-01 at 23 02 39" src="https://github.com/daryl-sf/falling-sand/assets/39553729/f9cd068e-59a0-4f76-8ce2-e29e23bb81bd">
+
 ## Description
 Falling Sand is a simple simulation game where grains of sand fall and interact with each other. The game is based on the popular Falling Sand Game, which was created by Dan-Ball in 2005. The game is written in JavaScript.
 
