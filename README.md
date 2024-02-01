@@ -9,6 +9,11 @@ Falling Sand is a simple simulation game where grains of sand fall and interact 
 - Particle simulation: Simulate the behavior of sand particles as they fall and interact with each other.
 - Interactive gameplay: Manipulate the environment by adding sand.
 
+## Improvements
+- Update interactions to work on mobile
+- Expose config settings for the user
+- Add instructions to the page
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
